@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Tabbed Application</string>
+    <string name="tab_text_1">Chats</string>
+    <string name="tab_text_2">Status</string>
+    <string name="tab_text_3">Calls</string>
+    <string-array name="chats">
+        <item>Jeff</item>
+        <item>Betty</item>
+        <item>Wayne</item>
+        <item>Becky</item>
+        <item>Sharon</item>
+        <item>Kevin</item>
+        <item>Sam</item>
+        <item>Carol</item>
+        <item>John</item>
+        <item>Shawn</item>
+        <item>Rikki</item>
+        <item>Cindy</item>
+        <item>Edwin</item>
+        <item>Precious</item>
+        <item>Martin</item>
+        <item>Kimberly</item>
+        <item>Beth</item>
+    </string-array>
+</resources>
